@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "TTT.h"
 
-// TODO: computer opponent
+// TODO: computer opponent 
 // Minimax - https://en.wikipedia.org/wiki/Minimax
 // Monte Carlo - https://en.wikipedia.org/wiki/Monte_Carlo_method
 
